@@ -23,9 +23,9 @@ Core Functionality for MVP:
 
 Screens:
 ========
-1. Landing page (description sign up, login
-2. Sign up page
-3. Log in page
+1. [Landing page](wireframes/LandingPage.png) (description sign up, login
+2. [Sign up page](wireframes/SignUpPage.png)
+3. [Log in page](wireframes/LoginPage.png)
 4. After log in page (statistics? start a quiz, view profile, add a question, etc)
 5. Begin quiz page (set parameters etc)
 6. Individual question page after start of quiz
