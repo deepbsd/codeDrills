@@ -27,7 +27,7 @@ Screens:
 2. [Sign up page](wireframes/SignUpPage.png)
 3. [Log in page](wireframes/LoginPage.png)
 4. [After log in page](wireframes/UserHomePage.png) (statistics? start a quiz, view profile, add a question, etc)
-5. Begin quiz page (set parameters etc)
+5. [Begin quiz page](wireframes/StartQuizPage.png) (set parameters etc)
 6. Individual question page after start of quiz
 7. End of quiz page with stats
 8. Log out page
