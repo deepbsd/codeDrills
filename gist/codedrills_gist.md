@@ -32,6 +32,6 @@ Screens:
 7. [End of quiz page](wireframes/QuizEndPage.png) with stats
 8. [Log out page](wireframes/logoutPage_or_modal.png)
 9. [Profile page](wireframes/ProfilePage.png) (change username, avatar, password -- include summary)
-10. Add a question page
+10. [Add a question page](wireframes/AddQuestionPage.png)
 11. About page (I'm Dave, here's my github, contact etc)
 
