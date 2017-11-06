@@ -29,8 +29,8 @@ Screens:
 4. [After log in page](wireframes/UserHomePage.png) (statistics? start a quiz, view profile, add a question, etc)
 5. [Begin quiz page](wireframes/StartQuizPage.png) (set parameters etc)
 6. [Individual question page](wireframes/IndividualQuestionPage.png) after start of quiz
-7. End of quiz page with stats
-8. Log out page
+7. [End of quiz page](wireframes/QuizEndPage.png) with stats
+8. [Log out page](wireframes/logOutPage_or_modal.png)
 9. Profile page (change username, avatar, password -- include summary)
 10. Add a question page
 11. About page (I'm Dave, here's my github, contact etc)
