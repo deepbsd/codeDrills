@@ -35,3 +35,5 @@ Screens:
 10. [Add a question page](wireframes/AddQuestionPage.png)
 11. [About page](wireframes/AboutMe.png) (I'm Dave, here's my github, contact etc)
 
+Here's the [component layout](wireframes/ComponentLayout.png)...
+
